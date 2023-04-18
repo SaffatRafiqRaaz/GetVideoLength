@@ -1,2 +1,4 @@
 # GetVideoLength
-Python script that calculates total video length in a directory
+**Python script that calculates total video length in a directory**
+**Need to have ffmpeg installed for the script to work**
+Copy the script to your desired directory and run with idle, you will see total video length in console
