@@ -1,0 +1,10 @@
+First need to install ffmpeg
+
+download ffmpeg 
+extract to c drive
+rename folder ffmpeg
+add "C:\ffmpeg\bin" to user path
+
+Then copy the file "videolength.py" to parent directory
+open with idle
+click run module
